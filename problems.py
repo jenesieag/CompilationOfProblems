@@ -5,7 +5,7 @@ def loop():
 		print (varNum); #end
 
 def add():
-	first = "pogi3 ako1 ha2ha wew4";
+	first = "first3 second1 ha2ha fourth4";
 	output ="";
 	wew = first.split(' ');
 	temp = wew;
