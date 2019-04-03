@@ -1,4 +1,6 @@
 # CompilationOfProblems
+If you're having a problem on how to running file, just uncomment the name of function <br>
+below if __name__ == "__main__": and try to rerun it.
 NOTE: <br>
 All Kata solutions are written in PYTHON. <br>
 Novice in Python so please bare with me. <br>
