@@ -1,4 +1,4 @@
-# CompilationOfProblems
+# Compilation of Problems
 NOTE: <br>
 All Kata solutions are written in PYTHON. <br>
 Given problems or katas are in ranges between 8kyu to 6kyu. <br>
